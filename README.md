@@ -23,7 +23,7 @@ Tech Stack (Planned):
 - Database: MongoDB
  
  Live Backend API:
-https://issue-tracker-backend-anshitpandey958.replit.app
+https://issue-tracker-backend--anshitpandey958.replit.app
 
 Example Endpoints:
 GET    /issues
