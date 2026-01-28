@@ -21,3 +21,11 @@ Tech Stack (Planned):
 - Frontend: React
 - Backend: Node.js + Express
 - Database: MongoDB
+ 
+ Live Backend API:
+https://issue-tracker-backend-anshitpandey958.replit.app
+
+Example Endpoints:
+GET    /issues
+POST   /issues
+PATCH  /issues/:id
