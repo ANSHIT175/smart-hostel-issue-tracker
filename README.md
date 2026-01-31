@@ -29,3 +29,9 @@ Example Endpoints:
 GET    /issues
 POST   /issues
 PATCH  /issues/:id
+
+Live Frontend: https://frontend-pi-snowy-63.vercel.app/
+Frontend Features:
+- Student dashboard
+- Raise Issue form
+- Issue status tracking
